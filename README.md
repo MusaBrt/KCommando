@@ -7,6 +7,9 @@
 
 Annotation based command handler wrapper for JDA.
 
+## Warning
+This branch isn't recommended. Because method based handlers are so much poor for catching exceptions.
+
 ## Usage
 ```java
 public class Main {
