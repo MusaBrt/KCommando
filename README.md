@@ -7,6 +7,10 @@
 
 Annotation based command handler wrapper for JDA.
 
+## Abstract Branch
+
+The CommandUtils class in this branch is an abstract class.
+
 ## Usage
 ```java
 public class Main {
